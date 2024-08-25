@@ -1,9 +1,3 @@
-# Project Overview
-
-This project's main purpose is to give you the chance to learn new software concepts the way we do it out in industry.  Very often, we find ourselves having to implement code and APIs that we're unfamiliar with.  This is a chance for you to do a little research on a new interface type and learn, through trial and error possibly, how this interface is used to make a class iterable.  This is the interface that allows us to be able to use objects in for-each loops and methods and have Java automatically iterate over them for us.
-
-Let's get started!
-
 ## Concepts Covered
 
 - Collections
